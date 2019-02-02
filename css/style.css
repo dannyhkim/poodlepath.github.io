@@ -1,3 +1,8 @@
+@media only screen and (max-width: 414px) {
+  width: 100%;
+  background-color: #C1D0E1 ;
+}
+
 body{
   font: 16px/1.5 Century Gothic, Gill Sans, Avenir;
   padding:0;
@@ -5,6 +10,14 @@ body{
   background-color:#ffffff;
 }
 
+.h1 {
+  width: 262px;
+  height: 82px;
+  font-family: Righteous;
+  font-size: 48px;
+  text-align: center;
+  color: #FFFFFF;
+}
 
 /* Header **/
 header{
