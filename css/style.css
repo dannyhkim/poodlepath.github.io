@@ -10,7 +10,7 @@ body{
   background-color:#ffffff;
 }
 
-.h1 {
+h1 {
   width: 262px;
   height: 82px;
   font-family: Righteous;
@@ -20,5 +20,5 @@ body{
 }
 
 .logo {
-  
+  width: 84px;
 }
