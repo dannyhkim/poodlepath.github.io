@@ -1,5 +1,7 @@
 body {
   background:  #C1D0E1 ;
+  display: block;
+  text-align: center;
 }
 
 @media only screen 
@@ -37,7 +39,7 @@ body {
 
   .button {
     font-family: Quicksand;
-    font-size: 18px;
+    font-size: 16px;
     padding: 20px;
     border: none;
     color: #FFFFFF;
