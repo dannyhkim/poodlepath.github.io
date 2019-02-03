@@ -29,7 +29,7 @@ h2 .logo {
   display: block;
 }
 
-button {
+.button {
   font-family: Quicksand;
   font-size: 30px;
   border: none;
@@ -43,5 +43,5 @@ button {
 }
 
 li {
-  
+
 }
