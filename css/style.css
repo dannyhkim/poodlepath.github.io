@@ -5,6 +5,11 @@
 
 body{
   text-align: center;
+  background-color: #C1D0E1 ;
+}
+
+.container {
+  text-align: center;
 }
 
 h1 {
