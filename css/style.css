@@ -6,12 +6,6 @@
       background-color:  #C1D0E1 ;
       text-align: center;
 
-  body{
-    display: inline-block;
-    background-color: #C1D0E1 ;
-  }
-
-
   h1 {
     font-family: Righteous;
     font-size: 72px;
@@ -38,12 +32,13 @@
 
   .button {
     font-family: Quicksand;
+    display: box;
     font-size: 30px;
     border: none;
     color: #FFFFFF;
     border-radius: 12px; 
     background-color: #C0C0C0;
-    display: block;
+    display: padding 10px;
     width: 250px;
     height: 80px;
     margin: 20px;
