@@ -92,7 +92,7 @@
             var address = document.getElementById("pac-input").value; 
             localStorage.setItem("storageName", address);
             
-            document.querySelector('.result').innerHTML = "Pick up: " + address + " <br/> LatLong:" + latLong + '<br/>   <a href="page2.html">' + '<button type="button" class"btn btn-danger">Next...</button>' + ' </a>';
+            document.querySelector('.result').innerHTML = "Pick up: " + address + '<button type="button" class"btn btn-danger">Next...</button>' + ' </a>';
             $('.result').html(address); 
               
             if (place.geometry.viewport) {
