@@ -1,12 +1,8 @@
 
 body{
   text-align: center;
-  background-color: #C1D0E1 ;
-}
-
-.container {
   display: inline-block;
-  text-align: center;
+  background-color: #C1D0E1 ;
 }
 
 h1 {
