@@ -35,6 +35,7 @@ body {
 
   .logo {
     width: 200px;
+    margin: 20px;
   }
 
   .button {
@@ -43,7 +44,7 @@ body {
     padding: 20px;
     border: none;
     color: #FFFFFF;
-    border-radius: 12px; 
+    border-radius: 16px; 
     background-color: #C0C0C0;
     margin: 20px;
     text-decoration: none;
