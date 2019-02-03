@@ -23,6 +23,7 @@ h1 {
 
 .logo {
   width: 84px;
+  display: block;
 }
 
 button {
