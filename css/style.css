@@ -20,13 +20,13 @@ h1 {
 
 button {
   font-family: Quicksand;
-  font-size: 60px;
+  font-size: 30px;
   border: none;
   color: #FFFFFF;
   border-radius: 12px; 
   background-color: #C0C0C0;
   display: block;
-  width: 100px;
+  width: 250px;
   height: 60px;
   margin: 20px;
 }
