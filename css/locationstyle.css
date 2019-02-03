@@ -1,0 +1,12 @@
+body {
+    background:  #C1D0E1 ;
+    display: block;
+    text-align: center;
+  }
+
+  h2 {
+    font-family: Righteous;
+    font-size: 30px;
+    color: #FFFFFF;
+    margin-top: 30px;
+  }
