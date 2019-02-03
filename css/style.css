@@ -1,47 +1,54 @@
+@media only screen 
+    and (device-width : 414px) 
+    and (device-height : 896px) 
+    and (-webkit-device-pixel-ratio : 2) { 
 
-body{
-  text-align: center;
-  display: inline-block;
-  background-color: #C1D0E1 ;
-}
+  body{
+    text-align: center;
+    display: inline-block;
+    background-color: #C1D0E1 ;
+  }
 
-h1 {
-  font-family: Righteous;
-  font-size: 72px;
-  text-align: center;
-  color: #FFFFFF;
-  margin-top: 30px;
-}
+  h1 {
+    font-family: Righteous;
+    font-size: 72px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 30px;
+  }
 
-h2 {
-  font-family: Righteous;
-  font-size: 40px;
-  color: #FFFFFF;
-  margin-top: 30px;
-}
+  h2 {
+    font-family: Righteous;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-top: 30px;
+  }
 
-h2 .logo {
-  width: 40px;
-}
+  h2 .logo {
+    width: 40px;
+  }
 
-.logo {
-  width: 200px;
-  display: block;
-}
+  .logo {
+    width: 200px;
+    display: block;
+  }
 
-.button {
-  font-family: Quicksand;
-  font-size: 30px;
-  border: none;
-  color: #FFFFFF;
-  border-radius: 12px; 
-  background-color: #C0C0C0;
-  display: block;
-  width: 250px;
-  height: 60px;
-  margin: 20px;
-}
+  .button {
+    font-family: Quicksand;
+    font-size: 30px;
+    border: none;
+    color: #FFFFFF;
+    border-radius: 12px; 
+    background-color: #C0C0C0;
+    display: block;
+    width: 250px;
+    height: 60px;
+    margin: 20px;
+  }
 
-li {
+  li {
+    font-family: Quicksand;
+    color: #FFFFFF;
+  }
 
 }
