@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
-    <title>Destination - Trip Quote calculator</title>
+    <title>Destination - Poodle Path</title>
    <link href="style42.css" type="text/css" rel="stylesheet">
             
   </head>
@@ -104,7 +104,7 @@ document.write("<h4> Pick up point: " + localStorage.getItem("storageName")+ "</
             
             
               
-            document.querySelector('.result').innerHTML = "Destination: " + address + " <br/> LatLong:" + latLong + "<br/>   <a href='google-maps2.html'>" + '<button type="button" class"btn btn-danger">Next...</button>' + "</a>";
+            document.querySelector('.result').innerHTML = "Destination: " + address + '<button type="button" class"btn btn-danger">Next...</button>' + "</a>";
             $('.result').html(address); 
               
             if (place.geometry.viewport) {
