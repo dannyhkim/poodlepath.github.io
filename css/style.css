@@ -17,13 +17,15 @@ h1 {
 }
 
 .logo {
-  width: 84px;
+  width: 200px;
   display: block;
 }
 
 button {
   font-family: Quicksand;
-  border-radius: 2px; 
+  border-radius: 6px; 
   background-color: rgba(193, 208, 225, 0.788);
-  display: 
+  display: block;
+  width: 50px;
+  height: 30px;
 }
