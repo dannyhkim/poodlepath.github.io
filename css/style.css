@@ -23,6 +23,7 @@ h1 {
 
 button {
   font-family: Quicksand;
+  color: #FFFFFF;
   border-radius: 6px; 
   background-color: rgba(193, 208, 225, 0.788);
   display: block;
