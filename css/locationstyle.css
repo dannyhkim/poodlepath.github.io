@@ -4,6 +4,13 @@ body {
     text-align: center;
   }
 
+  h1 {
+    font-family: Righteous;
+    font-size: 72px;
+    color: #FFFFFF;
+    margin-top: 50px;
+  }
+
   h2 {
     font-family: Righteous;
     font-size: 30px;
