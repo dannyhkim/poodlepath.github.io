@@ -1,12 +1,12 @@
+body {
+  background-color:  #C1D0E1 ;
+  text-align: center;
+}
+
 @media only screen 
     and (device-width : 414px) 
     and (device-height : 896px) 
     and (-webkit-device-pixel-ratio : 2) { 
-      
-  body {
-    background-color:  #C1D0E1 ;
-    text-align: center;
-  }
 
   h1 {
     font-family: Righteous;
@@ -53,6 +53,10 @@
   li {
     font-family: Quicksand;
     color: #FFFFFF;
+  }
+
+  c {
+    text-align: center;
   }
 
 }
