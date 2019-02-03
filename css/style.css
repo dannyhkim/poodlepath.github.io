@@ -2,14 +2,15 @@
     and (device-width : 414px) 
     and (device-height : 896px) 
     and (-webkit-device-pixel-ratio : 2) { 
-
-      background-color:  #C1D0E1 ;
-      text-align: center;
+      
+  body {
+    background-color:  #C1D0E1 ;
+    text-align: center;
+  }
 
   h1 {
     font-family: Righteous;
     font-size: 72px;
-    text-align: center;
     color: #FFFFFF;
     margin-top: 30px;
   }
@@ -38,7 +39,7 @@
     color: #FFFFFF;
     border-radius: 12px; 
     background-color: #C0C0C0;
-    display: padding 10px;
+    display: padding 40px;
     width: 250px;
     height: 80px;
     margin: 20px;
